@@ -1,3 +1,5 @@
+ <img src="![logo_upc](https://github.com/user-attachments/assets/d5edaf61-b8f2-447c-81a7-da0f09843962)">
+         
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 ## INFORME DE TRABAJO FINAL
