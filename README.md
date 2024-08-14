@@ -1,7 +1,6 @@
-::: center
+<p align = "center">
 ![logo_upc](https://github.com/user-attachments/assets/cf8e0f8c-00af-401d-b925-9f9112f238cc)
-:::
-      
+</p>
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 ## INFORME DE TRABAJO FINAL
