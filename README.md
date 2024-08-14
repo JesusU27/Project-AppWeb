@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/cf8e0f8c-00af-401d-b925-9f9112f238cc">
+<img src="https://github.com/user-attachments/assets/cf8e0f8c-00af-401d-b925-9f9112f238cc" width="30%" height="20%">
 </p>
 
 <h1 align="center">UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS</h1>
-<h2 align="center> INFORME DE TRABAJO FINAL </h2>
+<h2 align="center"> INFORME DE TRABAJO FINAL </h2>
 
 **Carrera:** Computación E Informática  
 **Curso:** Aplicaciones Web  
