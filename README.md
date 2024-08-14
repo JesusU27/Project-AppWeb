@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/cf8e0f8c-00af-401d-b925-9f9112f238cc">
 </p>
 
-<p align="center">
+<p align="center" size="30">
   UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 </p>
 
