@@ -28,4 +28,4 @@
 
 ---
 
-_Agosto, 2024_
+<p align="right"><i>Agosto, 2024</i></p>
